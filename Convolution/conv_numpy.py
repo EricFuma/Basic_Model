@@ -1,6 +1,7 @@
 '''
 @Author: Fu guanyu
 @time:   2020/04/29
+@blog:   待填充
 @refe: https://github.com/yizt/numpy_neural_network/blob/master/2_1-numpy%E5%8D%B7%E7%A7%AF%E5%B1%82%E5%AE%9E%E7%8E%B0.ipynb
        https://blog.csdn.net/weixin_43217928/article/details/88597216
 '''
